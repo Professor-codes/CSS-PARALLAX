@@ -7,7 +7,7 @@
 
 # Project preview
 
-![basic-html-css](https://github.com/Professor-codes/BASIC-HTML-CSS/assets/126326997/3ed674b7-1e82-4fb4-aca3-c67c826f4fcb)
+
 
 
 
