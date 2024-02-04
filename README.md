@@ -1,4 +1,4 @@
-# CSS-PARALLAX
+# BASIC-HTML-CSS
 
 <div align="left">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="60" height="60"/>&nbsp;
@@ -7,7 +7,7 @@
 
 # Project preview
 
-![css-parallax](https://github.com/Professor-codes/ARISE-NAVBAR/assets/126326997/bee790e1-7c1f-4428-9cc6-b85a196db828)
+![basic-html-css](https://github.com/Professor-codes/BASIC-HTML-CSS/assets/126326997/3ed674b7-1e82-4fb4-aca3-c67c826f4fcb)
 
 
 
